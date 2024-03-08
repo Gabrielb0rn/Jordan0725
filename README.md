@@ -4,7 +4,6 @@
 - 👋 Hi, I’m Jordan
 - 👀 I’m interested in learn more.
 - 🌱 I’m currently learning Html, CSS & JS
-- 📫 How to reach me: 
 - ⚡ Fun fact: I love games, tecnology and animals.
 - 📍 Brazil
 
