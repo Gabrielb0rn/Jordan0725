@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Jordan
 - 👀 I’m interested in learn more.
 - 🌱 I’m currently learning Html, CSS & JS
-- ⚡ Fun fact: I love games, tecnology and animals.
+- ⚡ Fun facts: I love games, tecnology and animals.
 - 📍 Brazil
 
 <div align="center">
