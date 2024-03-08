@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love games, tecnology and animals.
 - 📍 Brazil
 
-<div align="center">
+<div align="end">
     <a href="https://github.com/Jordan0725">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jordan0725&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
